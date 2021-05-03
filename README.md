@@ -1,14 +1,16 @@
 # RatingApp
 
-
-# Image Review
+## Image preview
 
 *****
-### the review image on light mode
+### The preview image on light-mode
 
-![Screenshot_20210503-022419_RatingApp](https://user-images.githubusercontent.com/61431856/116831274-e6d44280-abb6-11eb-9232-2b9d396947da.jpg)
+<img src="images/rating_app_light.png" height="840px" width="420px" />
 
+<!-- using github user content is cool but including app images in the app is even better 😎-->
+<!-- something else worth noting is that Android Studio prefers PNG to other image formats especially
+ when generating a signed APK. I'd suggest using PNG as much as possible even when you don't need an APK -->
 
 ******
-### the review image on darkmode
-![Screenshot_20210503-022352_RatingApp](https://user-images.githubusercontent.com/61431856/116831299-08352e80-abb7-11eb-9b6c-ccf7d978f15f.jpg)
+### The preview image on dark-mode
+<img src="images/rating_app_dark.png" height="840px" width="420px"/>
